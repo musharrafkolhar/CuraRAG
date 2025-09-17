@@ -1,0 +1,17 @@
+ Here are video chunks containing video title , chunk_id , text at that time
+, start and end time in seconds 
+
+
+[{"text":" two bones that participate in the formation of the shoulder joint.","source_file":"1.mp3.json","chunk_id":4},{"text":" in the formation of the shoulder joint.","source_file":"2.mp3.json","chunk_id":126},{"text":" Here I have a left shoulder.","source_file":"5.mp3.json","chunk_id":263},{"text":" I have with me a right shoulder.","source_file":"6.mp3.json","chunk_id":288},{"text":" joint particularly the scapulothoracic joint participates in the movements of the shoulder","source_file":"1.mp3.json","chunk_id":84}]
+
+
+
+which bones form the shoulder
+User asked this questions related to video chunks , you have to answer where and how much 
+content is taught and where it is taught  in which video and what timestamp 
+and guide the user to that particular video and timestamp also use these chunks to answer the users
+questions , if user asks unrelated questions then tell them you answer questions related to this 
+medicine course  
+
+
+
